@@ -7,6 +7,6 @@ permalink: /about/
 
 ### LegendaryMagma
 
-Welcome to this LegendaryMagma website. There's not much here right now.
+Welcome to this LegendaryMagma website. This website provides information about music, coding and puppies.
 
 
