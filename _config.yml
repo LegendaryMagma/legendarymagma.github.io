@@ -3,7 +3,7 @@ author:
   name:   
   email: 
 description: > # this means to ignore newlines until "show_excerpts:"
-  This website provides information about music, coding and puppies.
+  This website provides information about coding, music and puppies.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
