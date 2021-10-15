@@ -1,9 +1,9 @@
-title: CoderDojoBalwyn
+title: LegendaryMagma
 author:
-  name: CoderDojoBalwyn champion  
-  email: balwyn.au@coderdojo.com 
+  name: LegendaryMagma champion  
+  email: 
 description: > # this means to ignore newlines until "show_excerpts:"
-  This website provides information about what we're up to and resources for our CoderDojoBalwyn Ninjas.
+  This website provides information about music, coding and puppies.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -15,7 +15,7 @@ minima:
   # generate social links in footer
   social_links:
     # twitter: jekyllrb
-    github: rockycape
+    github: LegendaryMagma
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
