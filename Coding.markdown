@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Wiki
+title: Coding
 ---
 
 This wiki page is a collection of bits and pieces of info.  
