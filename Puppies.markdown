@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Coding
+title: Puppies
 ---
 
 This wiki page is a collection of bits and pieces of info.  
