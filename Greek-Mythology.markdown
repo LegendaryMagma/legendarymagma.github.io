@@ -2,6 +2,7 @@
 layout: page
 title: "Greek Mythology"
 ---
+![sierpinskitriangle01](assets/sierpinskitriangle01.png)
 **HOW EVERYTHING STARTED**
 
 The Ancient Greeks believed that in the beginning, the world was in a state of nothingness which they called Chaos. Suddenly, from light, came Gaia (Mother Earth) and from her came Uranus (the sky) along with other old gods (called primordials) like Pontus (the primordial god of the oceans). Gaia and Uranus had 12 children, the Titans. The most important of the 12 children were Kronos and Rhea.
