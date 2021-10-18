@@ -3,19 +3,12 @@ layout: page
 title: "Greek Mythology"
 ---
 
-body {
-  background-image: url('assets/simon-marsault-OusvVrAhU-o-unsplash.jpg');
-}
-</style>
-</head>
-<body>
 
-<!--
 ![simon-marsault-OusvVrAhU-o-unsplash](assets/simon-marsault-OusvVrAhU-o-unsplash.jpg)
 
 Photo by <a href="https://unsplash.com/@mrtsimon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Simon Marsault 🇫🇷</a> on <a href="https://unsplash.com/collections/80064827/ancient-greece?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
--->
+
 
 **HOW EVERYTHING STARTED**
 
