@@ -2,9 +2,21 @@
 layout: page
 title: "Greek Mythology"
 ---
+
+body {
+  background-image: url('assets/simon-marsault-OusvVrAhU-o-unsplash.jpg');
+}
+</style>
+</head>
+<body>
+
+<!--
 ![simon-marsault-OusvVrAhU-o-unsplash](assets/simon-marsault-OusvVrAhU-o-unsplash.jpg)
+
 Photo by <a href="https://unsplash.com/@mrtsimon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Simon Marsault 🇫🇷</a> on <a href="https://unsplash.com/collections/80064827/ancient-greece?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  
+
+-->
+
 **HOW EVERYTHING STARTED**
 
 The Ancient Greeks believed that in the beginning, the world was in a state of nothingness which they called Chaos. Suddenly, from light, came Gaia (Mother Earth) and from her came Uranus (the sky) along with other old gods (called primordials) like Pontus (the primordial god of the oceans). Gaia and Uranus had 12 children, the Titans. The most important of the 12 children were Kronos and Rhea.
