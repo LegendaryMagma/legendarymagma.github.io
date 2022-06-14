@@ -1,4 +1,10 @@
-### Winter holday at Libby's Farm
+---
+layout: page
+title: Winter holiday at Libby's Farm
+youtubeId: v=I4D1g_EJg1w
+---
+
+{% include youtubePlayer.html id=page.youtubeId %}
 
 Day One
 
