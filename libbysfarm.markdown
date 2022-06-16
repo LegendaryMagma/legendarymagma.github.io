@@ -1,6 +1,8 @@
 ---
-layout: page
-title: Winter holiday at Libby's Farm
+layout: post
+title: "Winter holiday at Libby's Farm"
+categories: holiday
+image: /assets/gang.png
 youtubeId: I4D1g_EJg1w
 ---
 
