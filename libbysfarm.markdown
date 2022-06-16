@@ -2,7 +2,7 @@
 layout: post
 title: "Winter holiday at Libby's Farm"
 categories: holiday
-image: /assets/gang.png
+image: /assets/DSC08898.JPG
 youtubeId: I4D1g_EJg1w
 ---
 
