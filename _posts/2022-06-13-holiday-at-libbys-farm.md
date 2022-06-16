@@ -3,6 +3,8 @@ layout: post
 title: "Winter holiday at Libby's Farm"
 categories: holiday
 image: /assets/DSC08898.JPG
+author:
+- LegendaryMagma
 ---
 
 
