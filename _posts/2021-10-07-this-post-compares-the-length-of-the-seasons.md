@@ -3,7 +3,7 @@ layout: post
 title: "This post compares the length of the seasons in Northern and Southern Hemispheres"
 categories: science
 author:
-- rockycape
+- LegendaryMagma
 ---
 
 Did you know that the seasons are not the same length?
