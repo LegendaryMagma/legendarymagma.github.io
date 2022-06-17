@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Welcome to LegendaryMagma"
-categories: coderdojobalwyn
+categories: coderdojo
 youtubeId: I4D1g_EJg1w
 author:
 - LegendaryMagma
