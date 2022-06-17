@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Review of "100 Days, But It Updates Every Day..." Minecraft Youtube Video"
+title: "Review of '100 Days, But It Updates Every Day...' Minecraft Youtube Video"
 categories: review
 youtubeId: jTx0MecaFHc
 author:
