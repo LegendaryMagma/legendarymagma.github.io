@@ -4,7 +4,7 @@ title: "Greek Mythology"
 ---
 
 
-![simon-marsault-OusvVrAhU-o-unsplash](assets/simon-marsault-OusvVrAhU-o-unsplash.jpg)
+![simon-marsault-OusvVrAhU-o-unsplash](assets/simon-marsault-OusvVrAhU-o-unsplash.png)
 
 Photo by <a href="https://unsplash.com/@mrtsimon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Simon Marsault 🇫🇷</a> on <a href="https://unsplash.com/collections/80064827/ancient-greece?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
