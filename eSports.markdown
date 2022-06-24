@@ -3,7 +3,7 @@ layout: page
 title: eSports
 youtubeId: kqCHEO16Y9k?t=0
 twitchId: KnottyWildHerringEagleEye-budqzDI_DNBOKWj7
-twitchDomain: rockycape.github.io
+twitchDomain: legendarymagma.github.io
 ---
 
 {% include twitchPlayer.html id=page.twitchId domain=page.twitchDomain %}  
