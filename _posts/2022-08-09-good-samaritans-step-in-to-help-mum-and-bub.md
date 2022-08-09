@@ -6,8 +6,7 @@ author:
 - LegendaryMagma
 ---
 
-Good Samaritans thanked by Melbourne mother after stepping in during roadside toddler seizure
-=============================================================================================
+
 
 [ABC Radio Melbourne](https://www.abc.net.au/melbourne)
 
