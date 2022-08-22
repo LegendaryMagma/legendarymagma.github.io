@@ -17,3 +17,5 @@ fields:
 - type: list
   name: author
   label: author
+pages:
+- _posts/how-to-add-a-new-post-page-using-forestry.io-content-management-system.md
