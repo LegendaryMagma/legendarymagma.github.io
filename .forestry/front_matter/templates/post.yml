@@ -17,3 +17,5 @@ fields:
 - type: list
   name: author
   label: author
+pages:
+- _posts/voting-cps-house-names-2022.md
