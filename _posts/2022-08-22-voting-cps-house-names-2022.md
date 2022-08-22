@@ -2,7 +2,7 @@
 layout: post
 title: Voting CPS House Names 2022
 categories: cps
-image: freemanhouse.jpeg
+image: "/assets/freemanhouse.jpeg"
 author:
 - LegendaryMagma
 
