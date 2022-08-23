@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to add a new post/page using FORESTRY.IO Content Management System
+title: How to add a new post using FORESTRY.IO Content Management System
 categories: tech
 image: "/assets/makewebpage.png"
 author: 
@@ -10,7 +10,7 @@ author:
 2. Sign in using github credentials
 3. Select the website
 4. Click on Posts in the sidebar
-5. Choose New Post
+5. Choose Create new
 6. Select Post
 7. Fill in the form:
    1. LAYOUT: post
