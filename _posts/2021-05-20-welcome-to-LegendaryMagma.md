@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Welcome to LegendaryMagma"
-categories: coderdojo
+categories: general
 author:
 - LegendaryMagma
 ---
