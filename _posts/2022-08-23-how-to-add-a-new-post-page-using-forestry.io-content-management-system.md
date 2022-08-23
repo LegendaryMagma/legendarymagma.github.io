@@ -3,7 +3,7 @@ layout: post
 title: How to add a new post/page using FORESTRY.IO Content Management System
 categories: tech
 image: "/assets/makewebpage.png"
-author: []
+author: 
 
 ---
 1. Open [https://app.forestry.io/dashboard/#/](https://app.forestry.io/dashboard/#/ "https://app.forestry.io/dashboard/#/")  in your browser
