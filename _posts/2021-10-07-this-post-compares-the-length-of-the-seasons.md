@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "This post compares the length of the seasons in Northern and Southern Hemispheres"
+title: This post compares the length of the seasons in Northern and Southern Hemispheres
 categories: science
 author:
 - LegendaryMagma
----
 
+---
 Did you know that the seasons are not the same length?
 
-Did you know that the seasons are different lengths in the Northern and Southern Hemispheres? 
+Did you know that the seasons are different lengths in the Northern and Southern Hemispheres?
 
 ### Southern Hemisphere Start End Dates
 
@@ -37,5 +37,3 @@ Did you know that the seasons are different lengths in the Northern and Southern
 |     |     | 31  | 30  | 31  |     |     |     |     |     |     |     | 92  |
 |     |     |     |     |     | 30  | 31  | 31  |     |     |     |     | 92  |
 |     |     |     |     |     |     |     |     | 30  | 31  | 30  |     | 91  |
-
-
