@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Story
-published: false
 
 ---
 ​​**The Curse of the Cursed Knife**
