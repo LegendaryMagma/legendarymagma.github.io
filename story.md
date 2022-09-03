@@ -1,13 +1,11 @@
 ---
 layout: page
-title: Story
+title: A Horror Story
 
 ---
-​​**The Curse of the Cursed Knife**
+### ​​**The Curse of the Cursed Knife**
 
-## A Horror Story
-
-## by LegendaryM
+#### by LegendaryM
 
 Whilst investigating the death of a local shopkeeper, a murderous hairdresser called Chloe Jones uncovers a legend about a supernaturally-cursed, cursed knife circulating throughout Scotland. As soon as anyone uses the knife, he or she has exactly 277 days left to live.
 
