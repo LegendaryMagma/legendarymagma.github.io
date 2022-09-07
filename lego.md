@@ -19,10 +19,10 @@ Your lego-technic-42110-land-rover-defender has a fake engine.  The fake engine 
 
 Your results may vary, however in our tests we found that the fake engine pistons worked most consistently in the following operation states.  
 
-**Forward Drive**
+**Forward Drive**  
 Range - low 
 Gear Selection - four positions (extra low or low) 
-**Reverse Drive**
+**Reverse Drive**  
 Range - low 
 Gear Selection - four positions (extra low or low) 
 
