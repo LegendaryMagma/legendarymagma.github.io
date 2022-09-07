@@ -4,6 +4,8 @@ title: Lego
 youtubeId: NA_JRpzQ4ZQ
 ---
 
+![LegoTechnic42110LandRoverDefender](/assets/LegoTechnic42110LandRoverDefender.png)  
+
 **operating manual for your lego-technic-42110-land-rover-defender**
 
 This page includes brief operating instructions for your lego-technic-42110-land-rover-defender and should help manage your expectations about how it works.
