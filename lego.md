@@ -19,7 +19,8 @@ Gear Selection - four positions (extra low, low, high, extra high) --> operated 
 
 Your lego-technic-42110-land-rover-defender has a fake engine.  The fake engine pistons move up and down in a cool sequence when your lego-technic-42110-land-rover-defender is pushed along the ground.  
 
-Your results may vary, however in our tests we found that the fake engine pistons worked most consistently in the following operation states.  
+Your results may vary, however in our tests we found that the fake engine pistons worked most consistently in the following operation states.  Also we found that the lego-technic-42110-land-rover-defender needed to be pushed about 1.5m along the ground as the fake engine pistons don't start from first push.
+
 
 **Forward Drive**  
 Range - low  
