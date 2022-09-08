@@ -22,11 +22,11 @@ Your lego-technic-42110-land-rover-defender has a fake engine.  The fake engine 
 Your results may vary, however in our tests we found that the fake engine pistons worked most consistently in the following operation states.  
 
 **Forward Drive**  
-Range - low 
-Gear Selection - four positions (extra low or low) 
+Range - low  
+Gear Selection - four positions (extra low or low)  
 **Reverse Drive**  
-Range - low 
-Gear Selection - four positions (extra low or low) 
+Range - low  
+Gear Selection - four positions (extra low or low)  
 
 
 The fake engine pistons do not move up and down in a cool sequence when your lego-technic-42110-land-rover-defender is in Neutral Drive regardless of whether it is pushed along the ground.  Of course if a real landrover defender with engine on will have the engine parts moving even when in Neutral Drive.  
